@@ -1,3 +1,5 @@
+# Title: info.sh
+
 for f in *.fasta
 do
     echo $f
